@@ -1,2 +1,6 @@
-# 6998DL-zc2521-bc2916
-Human Activity Recognition Using Tactile Patterns
+## COMSE 6998 Practical Deep Learning Systems Performance Final Project
+
+# Human Activity Recognition Using Tactile Patterns
+## Zijia Chen (zc2521), Bowen Chen (bc2916)
+
+
