@@ -51,7 +51,10 @@ However, some of them requires connecting to our custom hardwares including MCU 
   - [![image.png](https://i.postimg.cc/gj5fKkG1/image.png)](https://postimg.cc/wRXfqzyk)
 - Noisy input data from pressure sensors:
   - [![image.png](https://i.postimg.cc/0533FjqB/image.png)](https://postimg.cc/V5qDbYvq)
-
+- Deep Learning model architecture:
+  - [![image.png](https://i.postimg.cc/hPLkmnHZ/image.png)](https://postimg.cc/RN0prkCw)
+- Deep Learning model with Transformer:
+  - [![image.png](https://i.postimg.cc/qBnSf0MB/image.png)](https://postimg.cc/MX6dRCQg)
 # Future Works
 - Model Quantization, Compression, Distillation
 - Due to the mechanical principle (Hysteresis effects) of the pressure sensors, LSTM, RNN, Transformers, Vision Transformer future tuning.
