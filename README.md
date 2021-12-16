@@ -51,3 +51,12 @@ However, some of them requires connecting to our custom hardwares including MCU 
   - [![image.png](https://i.postimg.cc/gj5fKkG1/image.png)](https://postimg.cc/wRXfqzyk)
 - Noisy input data from pressure sensors:
   - [![image.png](https://i.postimg.cc/0533FjqB/image.png)](https://postimg.cc/V5qDbYvq)
+
+# Future Works
+- Model Quantization, Compression, Distillation
+- Due to the mechanical principle (Hysteresis effects) of the pressure sensors, LSTM, RNN, Transformers, Vision Transformer future tuning.
+- Deploying pressure sensors in large scale.
+- Hosting load balancing and computational heavy deep learning models on cloud.
+- Teacher-student model between cloud and local edge devices.
+- Continuously collecting  (unlabeled, noisy) data from deployed sensors to address model drifting issues.
+- More efficient data collection pipeline by leveraging multiple cameras and Open-Pose or similar motion capture techniques.
