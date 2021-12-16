@@ -41,4 +41,13 @@ Other python scripts can be run directly without input arguments.
 However, some of them requires connecting to our custom hardwares including MCU or pressure sensors.
 
 # Results
-
+- Demo video for human movement classification using pressure sensor 
+  - [![image.png](https://i.postimg.cc/28rvzFmb/image.png)](https://drive.google.com/file/d/1uZoKenmJ2mWs943INWkYk7Dkahji0sok/view?resourcekey)
+- We added up the possibilities of all wrong postures and visualized them out with a line graph in matplotlib
+  - [![image.png](https://i.postimg.cc/Nf9DHkSN/image.png)](https://postimg.cc/1fSDxw96)
+- Deep Learning model evaluation result:
+  - [![image.png](https://i.postimg.cc/D0j23Tnc/image.png)](https://postimg.cc/Cn8yb9ZZ)
+- XGBoost model evaluation results:
+  - [![image.png](https://i.postimg.cc/gj5fKkG1/image.png)](https://postimg.cc/wRXfqzyk)
+- Noisy input data from pressure sensors:
+  - [![image.png](https://i.postimg.cc/0533FjqB/image.png)](https://postimg.cc/V5qDbYvq)
