@@ -25,4 +25,20 @@
   - deep learning models training, testing and validation pipline for multiclass classification
 - data_collection_with_model_finetuning.py:
   - script for data collection and XGBoost model finetuning
-- 
+- final_XGB.ipynb:
+  - XGBoost model training, testing and validation pipeline
+- pose_prediction.py:
+  - script running on MCU using exported XGBoost model for final pose prediction
+- realtime_line_graph.py:
+  - script for visualizing XGBoost prediction confidence at runtime
+- sensor_visualization.py:
+  - script for visualizing pressure map directly from connected pressure sensors
+
+For notebook files, simply following code blocks should work. 
+
+Other python scripts can be run directly without input arguments.
+
+However, some of them requires connecting to our custom hardwares including MCU or pressure sensors.
+
+# Results
+
