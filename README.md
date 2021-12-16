@@ -16,3 +16,13 @@
   5. Leaning Left
   6. Slouch
 
+# About this repository
+- ./data: folder containing collected data for training, testing and validation
+- ./vis: some visualization result for inputs from pressure sensors
+- bc2916_6998_project_binary.ipynb: 
+  - deep learning models training, testing and validation pipline for binary classification
+- bc2916_6998_project_multi_class.ipynb: 
+  - deep learning models training, testing and validation pipline for multiclass classification
+- data_collection_with_model_finetuning.py:
+  - script for data collection and XGBoost model finetuning
+- 
